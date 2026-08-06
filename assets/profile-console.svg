@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Ming Tai profile console</title>
+  <desc id="desc">A database console showing Ming Tai's affiliation, focus, and current project.</desc>
+  <defs>
+    <linearGradient id="console-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#101c26"/>
+    </linearGradient>
+    <linearGradient id="console-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58d4ff"/>
+      <stop offset="100%" stop-color="#7ee787"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="378" rx="18" fill="url(#console-bg)" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 55 H1199" stroke="#30363d" stroke-width="2"/>
+  <circle cx="28" cy="28" r="7" fill="#ff7b72"/>
+  <circle cx="52" cy="28" r="7" fill="#d29922"/>
+  <circle cx="76" cy="28" r="7" fill="#7ee787"/>
+  <text x="600" y="35" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" text-anchor="middle">profile.sql — mingtai@ruc</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="92" fill="#7ee787" font-size="17">rushdb=&gt;</text>
+    <text x="140" y="92" fill="#c9d1d9" font-size="17">SELECT identity, focus, project FROM profile;</text>
+
+    <rect x="42" y="115" width="748" height="94" rx="9" fill="#0b141c" stroke="#30363d"/>
+    <path d="M42 151 H790 M246 115 V209 M546 115 V209" stroke="#30363d"/>
+    <text x="62" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">IDENTITY</text>
+    <text x="266" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">FOCUS</text>
+    <text x="566" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">CURRENT PROJECT</text>
+    <text x="62" y="181" fill="#f0f6fc" font-size="21" font-weight="700">Ming Tai</text>
+    <text x="266" y="181" fill="#58d4ff" font-size="21">Database Systems</text>
+    <text x="566" y="181" fill="#7ee787" font-size="21" font-weight="700">RushDB</text>
+
+    <text x="42" y="248" fill="#7ee787" font-size="17">rushdb=&gt;</text>
+    <text x="140" y="248" fill="#c9d1d9" font-size="17">SHOW interests;</text>
+
+    <g font-size="15">
+      <rect x="42" y="269" width="178" height="39" rx="19.5" fill="#14232a" stroke="#58d4ff"/>
+      <text x="131" y="294" fill="#c9d1d9" text-anchor="middle">storage engines</text>
+      <rect x="233" y="269" width="126" height="39" rx="19.5" fill="#14232a" stroke="#58d4ff"/>
+      <text x="296" y="294" fill="#c9d1d9" text-anchor="middle">indexing</text>
+      <rect x="372" y="269" width="201" height="39" rx="19.5" fill="#14232a" stroke="#58d4ff"/>
+      <text x="472" y="294" fill="#c9d1d9" text-anchor="middle">query execution</text>
+      <rect x="586" y="269" width="170" height="39" rx="19.5" fill="#14232a" stroke="#58d4ff"/>
+      <text x="671" y="294" fill="#c9d1d9" text-anchor="middle">transactions</text>
+    </g>
+
+    <text x="42" y="345" fill="#8b949e" font-size="14">Renmin University of China · building systems from first principles</text>
+
+    <rect x="830" y="83" width="328" height="244" rx="14" fill="#0b141c" stroke="#30363d"/>
+    <text x="858" y="115" fill="#8b949e" font-size="13" letter-spacing="2">SESSION</text>
+    <circle cx="1121" cy="108" r="6" fill="#7ee787" filter="url(#soft-glow)"/>
+    <path d="M858 134 H1130" stroke="#30363d"/>
+
+    <text x="858" y="169" fill="#8b949e" font-size="13">STATUS</text>
+    <text x="984" y="169" fill="#7ee787" font-size="15">BUILDING</text>
+    <text x="858" y="207" fill="#8b949e" font-size="13">MODE</text>
+    <text x="984" y="207" fill="#f0f6fc" font-size="15">FIRST PRINCIPLES</text>
+    <text x="858" y="245" fill="#8b949e" font-size="13">STACK</text>
+    <text x="984" y="245" fill="#f0f6fc" font-size="15">C · C++ · TS</text>
+    <text x="858" y="283" fill="#8b949e" font-size="13">LINK</text>
+    <text x="984" y="283" fill="#58d4ff" font-size="15">rushdb.cn</text>
+    <rect x="858" y="306" width="272" height="2" fill="url(#console-line)"/>
+  </g>
+</svg>

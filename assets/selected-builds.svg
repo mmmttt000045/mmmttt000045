@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Selected builds</title>
+  <desc id="desc">Three project cards for RushDB, PM-Router, and shuati.</desc>
+  <defs>
+    <linearGradient id="projects-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#101923"/>
+    </linearGradient>
+    <linearGradient id="rush-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58d4ff"/>
+      <stop offset="100%" stop-color="#7ee787"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="428" rx="18" fill="url(#projects-bg)" stroke="#30363d" stroke-width="2"/>
+  <text x="40" y="54" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="2">FEATURED / 03</text>
+  <path d="M40 72 H1160" stroke="#30363d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="40" y="96" width="352" height="286" rx="14" fill="#0b141c" stroke="#3b5364"/>
+    <rect x="40" y="96" width="352" height="5" rx="2.5" fill="url(#rush-accent)"/>
+    <text x="68" y="139" fill="#58d4ff" font-size="14" letter-spacing="1.5">01 / DATABASE SYSTEMS</text>
+    <text x="68" y="191" fill="#f0f6fc" font-size="31" font-weight="700">RushDB</text>
+    <text x="68" y="229" fill="#8b949e" font-size="16">Storage to execution.</text>
+    <text x="68" y="254" fill="#8b949e" font-size="16">Built to understand the layers.</text>
+    <rect x="68" y="287" width="116" height="34" rx="17" fill="#14232a" stroke="#58d4ff"/>
+    <text x="126" y="309" fill="#c9d1d9" font-size="13" text-anchor="middle">TYPESCRIPT</text>
+    <circle cx="70" cy="350" r="5" fill="#7ee787"/>
+    <text x="84" y="355" fill="#7ee787" font-size="13">ACTIVE BUILD</text>
+    <text x="350" y="355" fill="#58d4ff" font-size="22" text-anchor="end">↗</text>
+
+    <rect x="424" y="96" width="352" height="286" rx="14" fill="#0b141c" stroke="#3b5364"/>
+    <rect x="424" y="96" width="352" height="5" rx="2.5" fill="#d2a8ff"/>
+    <text x="452" y="139" fill="#d2a8ff" font-size="14" letter-spacing="1.5">02 / SYSTEMS</text>
+    <text x="452" y="191" fill="#f0f6fc" font-size="31" font-weight="700">PM-Router</text>
+    <text x="452" y="229" fill="#8b949e" font-size="16">A focused systems project.</text>
+    <text x="452" y="254" fill="#8b949e" font-size="16">Small surface, low-level work.</text>
+    <rect x="452" y="287" width="72" height="34" rx="17" fill="#211a2b" stroke="#d2a8ff"/>
+    <text x="488" y="309" fill="#c9d1d9" font-size="13" text-anchor="middle">C</text>
+    <text x="734" y="355" fill="#d2a8ff" font-size="22" text-anchor="end">↗</text>
+
+    <rect x="808" y="96" width="352" height="286" rx="14" fill="#0b141c" stroke="#3b5364"/>
+    <rect x="808" y="96" width="352" height="5" rx="2.5" fill="#f2cc60"/>
+    <text x="836" y="139" fill="#f2cc60" font-size="14" letter-spacing="1.5">03 / ALGORITHMS</text>
+    <text x="836" y="191" fill="#f0f6fc" font-size="31" font-weight="700">shuati</text>
+    <text x="836" y="229" fill="#8b949e" font-size="16">An algorithm practice workspace.</text>
+    <text x="836" y="254" fill="#8b949e" font-size="16">A web interface for steady work.</text>
+    <rect x="836" y="287" width="94" height="34" rx="17" fill="#292515" stroke="#f2cc60"/>
+    <text x="883" y="309" fill="#c9d1d9" font-size="13" text-anchor="middle">VUE</text>
+    <text x="1118" y="355" fill="#f2cc60" font-size="22" text-anchor="end">↗</text>
+  </g>
+</svg>

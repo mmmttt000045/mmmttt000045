@@ -3,39 +3,48 @@
 </p>
 
 <p align="center">
-  Database systems &amp; systems engineering · Renmin University of China
+  <a href="https://www.rushdb.cn"><img src="https://img.shields.io/badge/WEBSITE-rushdb.cn-58d4ff?style=for-the-badge&amp;labelColor=0d1117" alt="Website" /></a>
+  <a href="https://github.com/mmmttt000045/rushdb"><img src="https://img.shields.io/badge/PROJECT-RushDB-7ee787?style=for-the-badge&amp;labelColor=0d1117" alt="RushDB" /></a>
+  <a href="https://github.com/mmmttt000045?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-c9d1d9?style=for-the-badge&amp;labelColor=0d1117" alt="Repositories" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.rushdb.cn">Website</a>
-  ·
-  <a href="https://github.com/mmmttt000045/rushdb">RushDB</a>
-  ·
-  <a href="https://github.com/mmmttt000045">GitHub</a>
+  <img src="./assets/profile-console.svg" alt="Profile console: Ming Tai at Renmin University of China, focused on database systems and building RushDB" width="100%" />
 </p>
 
-## About
-
-I enjoy understanding the systems beneath familiar abstractions, then turning that understanding into working software. I am currently building **[RushDB](https://github.com/mmmttt000045/rushdb)** and exploring database internals from the storage layer upward.
-
-## Focus
-
-- Database systems: storage engines, indexing, query execution, and transactions
-- Systems programming with C and C++
-- Building practical software with TypeScript and Vue
-
-## Selected work
-
-| Project | Area |
-| --- | --- |
-| [RushDB](https://github.com/mmmttt000045/rushdb) | Database systems |
-| [PM-Router](https://github.com/mmmttt000045/PM-Router) | C programming |
-| [shuati](https://github.com/mmmttt000045/shuati) | TypeScript / Vue |
-
-## Now
-
-Working through database implementation details, one layer at a time. I am always happy to exchange notes on DBMS internals, systems engineering, and things built from first principles.
+<h2 align="center">Selected Builds</h2>
 
 <p align="center">
-  <sub>Build it. Understand it. Make it better.</sub>
+  <img src="./assets/selected-builds.svg" alt="Selected projects: RushDB, PM-Router, and shuati" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mmmttt000045/rushdb"><b>RushDB</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/mmmttt000045/PM-Router"><b>PM-Router</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/mmmttt000045/shuati"><b>shuati</b></a>
+</p>
+
+<h2 align="center">Working Set</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,vue,py,git&amp;theme=dark" alt="C, C++, TypeScript, Vue, Python, and Git" />
+</p>
+
+<br />
+
+<p align="center">
+  <code>storage</code>&nbsp;&nbsp;
+  <code>indexing</code>&nbsp;&nbsp;
+  <code>query execution</code>&nbsp;&nbsp;
+  <code>transactions</code>
+</p>
+
+<p align="center">
+  <sub>Building from first principles · Open to conversations about database internals and systems engineering</sub>
+</p>
+
+<p align="center">
+  <sub><code>connection_status: open</code></sub>
 </p>
