@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-console.svg" alt="Profile console: Ming Tai at Renmin University of China, focused on database systems and building RushDB" width="100%" />
+  <img src="./assets/profile-console.svg" alt="Profile console: Ming Tai, a PHD student at Renmin University of China, focused on database systems and building RushDB" width="100%" />
 </p>
 
 <h2 align="center">Selected Builds</h2>

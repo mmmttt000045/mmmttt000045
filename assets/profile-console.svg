@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Ming Tai profile console</title>
-  <desc id="desc">A database console showing Ming Tai's affiliation, focus, and current project.</desc>
+  <desc id="desc">A database console showing Ming Tai's identity, current education, focus, and current project.</desc>
   <defs>
     <linearGradient id="console-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
@@ -28,16 +28,18 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
     <text x="42" y="92" fill="#7ee787" font-size="17">rushdb=&gt;</text>
-    <text x="140" y="92" fill="#c9d1d9" font-size="17">SELECT identity, focus, project FROM profile;</text>
+    <text x="140" y="92" fill="#c9d1d9" font-size="17">SELECT identity, education, focus, project FROM profile;</text>
 
     <rect x="42" y="115" width="748" height="94" rx="9" fill="#0b141c" stroke="#30363d"/>
-    <path d="M42 151 H790 M246 115 V209 M546 115 V209" stroke="#30363d"/>
+    <path d="M42 151 H790 M202 115 V209 M382 115 V209 M612 115 V209" stroke="#30363d"/>
     <text x="62" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">IDENTITY</text>
-    <text x="266" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">FOCUS</text>
-    <text x="566" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">CURRENT PROJECT</text>
+    <text x="222" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">CURRENT EDUCATION</text>
+    <text x="402" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">FOCUS</text>
+    <text x="632" y="140" fill="#8b949e" font-size="13" letter-spacing="1.5">CURRENT PROJECT</text>
     <text x="62" y="181" fill="#f0f6fc" font-size="21" font-weight="700">Ming Tai</text>
-    <text x="266" y="181" fill="#58d4ff" font-size="21">Database Systems</text>
-    <text x="566" y="181" fill="#7ee787" font-size="21" font-weight="700">RushDB</text>
+    <text x="222" y="181" fill="#d2a8ff" font-size="21" font-weight="700">PHD</text>
+    <text x="402" y="181" fill="#58d4ff" font-size="21">Database Systems</text>
+    <text x="632" y="181" fill="#7ee787" font-size="21" font-weight="700">RushDB</text>
 
     <text x="42" y="248" fill="#7ee787" font-size="17">rushdb=&gt;</text>
     <text x="140" y="248" fill="#c9d1d9" font-size="17">SHOW interests;</text>
