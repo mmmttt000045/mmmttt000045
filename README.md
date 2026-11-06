@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.rushdb.cn"><img src="https://img.shields.io/badge/WEBSITE-rushdb.cn-58d4ff?style=for-the-badge&amp;labelColor=0d1117" alt="Website" /></a>
-  <a href="https://github.com/mmmttt000045/rushdb"><img src="https://img.shields.io/badge/PROJECT-RushDB-7ee787?style=for-the-badge&amp;labelColor=0d1117" alt="RushDB" /></a>
+  <a href="https://github.com/RushDB-Lab/CSCC-DB-Rucbase-2024"><img src="https://img.shields.io/badge/PROJECT-RushDB-7ee787?style=for-the-badge&amp;labelColor=0d1117" alt="RushDB" /></a>
   <a href="https://github.com/mmmttt000045?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-c9d1d9?style=for-the-badge&amp;labelColor=0d1117" alt="Repositories" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mmmttt000045/rushdb"><b>RushDB</b></a>
+  <a href="https://github.com/RushDB-Lab/CSCC-DB-Rucbase-2024"><b>RushDB</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/mmmttt000045/PM-Router"><b>PM-Router</b></a>
   &nbsp;·&nbsp;
