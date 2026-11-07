@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="./assets/database-banner.svg" alt="Ming Tai — Database Systems · RUC · RushDB" width="100%" />
+  <img src="./assets/database-banner.svg" alt="Tai Ming — Database Systems · RUC · RushDB" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.rushdb.cn"><img src="https://img.shields.io/badge/WEBSITE-rushdb.cn-58d4ff?style=for-the-badge&amp;labelColor=0d1117" alt="Website" /></a>
+  <strong>Tai Ming (明泰)</strong> · Ph.D. student at Renmin University of China<br />
+  <a href="https://mmmttt000045.github.io/">Academic homepage</a> · <a href="mailto:mingtai@ruc.edu.cn">mingtai@ruc.edu.cn</a>
+</p>
+
+<p align="center">
+  <a href="https://www.rushdb.cn"><img src="https://img.shields.io/badge/TEAM-rushdb.cn-58d4ff?style=for-the-badge&amp;labelColor=0d1117" alt="RushDB team website" /></a>
   <a href="https://github.com/RushDB-Lab/CSCC-DB-Rucbase-2024"><img src="https://img.shields.io/badge/PROJECT-RushDB-7ee787?style=for-the-badge&amp;labelColor=0d1117" alt="RushDB" /></a>
   <a href="https://github.com/mmmttt000045?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-c9d1d9?style=for-the-badge&amp;labelColor=0d1117" alt="Repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/profile-console.svg" alt="Profile console: Ming Tai, a PHD student at Renmin University of China, focused on database systems and building RushDB" width="100%" />
+  <img src="./assets/profile-console.svg" alt="Profile console: Tai Ming, a Ph.D. student at Renmin University of China, focused on database systems and building RushDB" width="100%" />
 </p>
 
 <h2 align="center">Selected Builds</h2>
